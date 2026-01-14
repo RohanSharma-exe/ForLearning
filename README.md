@@ -14,4 +14,4 @@ I am using this repo to experiment, follow tutorials, and store notes and sample
 
 ---
 
-Happy learning! Vola
+Happy learning! Vola Learners
